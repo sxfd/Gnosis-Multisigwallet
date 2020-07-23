@@ -3,6 +3,9 @@ Ethereum Multisignature Wallet UI
 
 A web user interface for the [MultiSigWallet](https://github.com/gnosis/MultiSigWallet).
 
+Available permanently on:
+https://arweave.net/dnVDmMi9GLTkLyByLqhjZB0yGl5w-ZW8S-1Mc-_kO6A
+
 Requirements
 -------------
 * Node v5+ (Confirmed working on v6.17.1 - will not work on current LTS v12.13.0)
